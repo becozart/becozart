@@ -8,4 +8,4 @@ I'm passionate about justice in tech and the workforce in general, particularly 
 
 I'm perpetually curious. 💭  
 Some things I want to learn / learn about next:  
-OS’s
+Security
