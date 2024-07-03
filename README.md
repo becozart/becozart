@@ -9,3 +9,6 @@ I'm passionate about justice in tech and the workforce in general, particularly 
 I'm perpetually curious. 💭  
 Some things I want to learn / learn about next:  
 Security
+
+PS: My contribution graph looks a bit sparse... 😦 It's because I've been building great things in private at Deliverr, Shopify, and Flexport! 😃 
+Checkout my Linkedin and send me a message: I'd love to chat about my recent work!
